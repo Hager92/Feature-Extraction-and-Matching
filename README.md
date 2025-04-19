@@ -16,22 +16,3 @@ It uses **SIFT** for feature detection and **FLANN** for efficient feature match
 
 - **Video Detection** *(Bonus)*:  
   Apply the detection pipeline to a video, drawing a rectangle around the detected object in real-time, optimizing by processing every few frames.
-
-## Installation
-Make sure you have Python and the required packages installed:
-```bash
-pip install opencv-contrib-python numpy matplotlib
-```
-
-## How to Run
-1. **Image Matching**:  
-   Run the script to detect and match features between two images and visualize the results.
-
-2. **Video Object Detection**:  
-   Run the video script to detect the object in real-time in a video feed.
-
-Press `q` to exit the video window during runtime.
-
-## Project Submitted by
-- Hager Tamer Abd El-Fattah — 120210092  
-- Noura Moustafa Mahmoud Maklad — 120210150
